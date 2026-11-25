@@ -1,0 +1,71 @@
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 590px;
+  border-radius: 10px;
+  
+  
+}
+
+body {
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f3e6d8;
+}
+
+.qwerty {
+  margin-top: 50px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #302d2c;
+}
+
+.vag {
+  font-size: 25px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(133, 70, 50);
+}
+
+.inst {
+  background: rgb(241, 232, 236);
+  padding: 10px;
+}
+
+#prep {
+  color: rgb(123, 40, 79);
+}
+
+.number {
+  color: rgb(123, 40, 79);
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 20px 25px;
+  border-bottom: 1px solid black;
+}
